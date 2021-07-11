@@ -46,17 +46,18 @@
 
 ## :dart: About ##
 
-Describe your project
+A basic color changing webpage.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+The background changes to a random color on every click.
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
+1. JavaScript
+2. CSS
+3. HTML
 
 
 
